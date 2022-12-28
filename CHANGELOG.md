@@ -1,3 +1,6 @@
+#### ⟳ Changelog 2.5.2
+- "Update to EN" for their "Update to CN" even though most of their changes were truly updates for "EN" (as in, the language).
+
 #### ⟳ Changelog v2.5.1
 - add usb network share
 - add routing table to disable ipv6
