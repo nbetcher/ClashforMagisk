@@ -25,7 +25,7 @@ A fork of [ClashForMagisk](https://github.com/kalasutra/Clash_For_Magisk)
 This is a Clash module for Magisk, and includes binaries for arm, arm64, x86, x64.
 
 ## Manager Apps CFM
-- [ClashForMagisk_Manager](https://t.me/MagiskChangeKing/159) CN
+- [ClashForMagisk_Manager](https://t.me/taamarin/26137) EN
 
 ## Install
 You can download the release [installer zip](https://github.com/taamarin/ClashforMagisk/releases) file and install it via the Magisk Manager App.
